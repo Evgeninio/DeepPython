@@ -1,0 +1,4 @@
+Hash(A): 41
+Hash(C): 41
+Hash(AB): 525
+Hash(CD): 525

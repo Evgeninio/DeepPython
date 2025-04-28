@@ -1,0 +1,8 @@
+[2025-04-11 18:45:51] User input: Hello world!
+[2025-04-11 18:45:56] Encoded message: uryyb jbeyq!
+[2025-04-11 18:46:04] User input: I am Evgenii
+[2025-04-11 18:46:09] Encoded message: v nz ritravv
+[2025-04-11 18:46:37] User input: I am studying in university 
+[2025-04-11 18:46:42] Encoded message: v nz fghqlvat va havirefvgl 
+[2025-04-11 18:46:46] User input: Bye Bey
+[2025-04-11 18:46:51] Encoded message: olr orl
